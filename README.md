@@ -13,10 +13,10 @@ Lover of technology and challenges
 </div>
   
  <div align="center" style="display: inline_block"><br>
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Python" height="30" width="40" src="https://user-images.githubusercontent.com/82631808/202933903-b648d09c-6ee3-4067-a5bd-9cf7230a76fc.png">
+  <img align="center" alt="Js" height="30" width="40" src="https://user-images.githubusercontent.com/82631808/202933920-261ccc3c-f163-475c-aceb-86e2979ff189.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/82631808/202933909-06807d49-1c64-40e9-a3f2-9639adf1c08e.png">
    <img align="center" alt="Access" height="30" src="https://user-images.githubusercontent.com/82631808/202917660-60f4bf84-183e-4e15-b6e4-bbf5cba29078.png">
 </div>
   
