@@ -22,3 +22,5 @@ Lover of technology and challenges
    <img align="center" alt="Access" height="30" src="https://user-images.githubusercontent.com/82631808/202917660-60f4bf84-183e-4e15-b6e4-bbf5cba29078.png">
 </div>
   
+  <hr>
+  
