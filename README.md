@@ -4,29 +4,33 @@
 
 ### Desenvolvedor Full Stack Python | Analista de Dados
 
-*Apaixonado por tecnologia e sempre em busca de novos desafios*
+*Apaixonado por tecnologia e sempre em busca de novos desafios*<br>
+Sou um desenvolvedor que ama transformar ideias em soluções reais através da programação. Trabalho com desenvolvimento full stack utilizando Python e também atuo na análise de dados, extraindo insights valiosos para tomada de decisões.
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor que ama transformar ideias em soluções reais através da programação. Trabalho com desenvolvimento full stack utilizando Python e também atuo na análise de dados, extraindo insights valiosos para tomada de decisões.
-
----
-
 ## 🎓 Formação Acadêmica
 
-**📚 Pós-Graduação (MBA)**
-- Análise de Dados
-- Auditoria, Controladoria e Finanças
+<table>
+<tr>
+<td width="50%">
 
-**🎓 Graduação**
-- Pedagogia
+### 📚 Pós-Graduação (MBA)
+- **Análise de Dados**
+- **Auditoria, Controladoria e Finanças**
 
-**📋 Técnico**
-- Administração
+</td>
+<td width="50%">
+
+### 🎓 Graduação & Técnico
+- **Pedagogia** (Graduação)
+- **Administração** (Técnico)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,7 +74,6 @@ Sou um desenvolvedor que ama transformar ideias em soluções reais através da 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisms/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:denis.m.s.777@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5543991038557)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de.muniz/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denisms3/)
 
