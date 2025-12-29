@@ -2,7 +2,7 @@
 
 # 👋 Olá, Eu sou Denis Muniz Silva!
 
-### Desenvolvedor Full Stack Python | Analista de Dados
+### Desenvolvedor Full Stack Python e Analista de Dados
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denisms7.github.io/portifolio_dms/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisms/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:denis.m.s.777@hotmail.com)
