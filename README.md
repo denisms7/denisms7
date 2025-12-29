@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👋 Olá, Eu sou Denis!
+# 👋 Olá, Eu sou Denis Muniz Silva!
 
-### Desenvolvedor Full Stack Python e Analista de Dados
+### Desenvolvedor Full Stack Python | Analista de Dados
 
 *Apaixonado por tecnologia e sempre em busca de novos desafios*<br>
 Sou um desenvolvedor que ama transformar ideias em soluções reais através da programação. Trabalho com desenvolvimento full stack utilizando Python e também atuo na análise de dados, extraindo insights valiosos para tomada de decisões.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denisms7.github.io/portifolio_dms/)
 
 </div>
 
@@ -17,7 +19,7 @@ Sou um desenvolvedor que ama transformar ideias em soluções reais através da 
 
 | 📚 Pós-Graduação (MBA) | 🎓 Graduação | 📋 Técnico |
 |:---:|:---:|:---:|
-| **Análise de Dados** <br> **Auditoria, Controladoria e Finanças** | **Pedagogia** | **Administração** |
+| **Análise de Dados**<br>**Auditoria, Controladoria e Finanças** | **Pedagogia** | **Administração** |
 
 
 </div>
@@ -64,7 +66,6 @@ Sou um desenvolvedor que ama transformar ideias em soluções reais através da 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisms/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:denis.m.s.777@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5543991038557)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de.muniz/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denisms3/)
 
