@@ -3,9 +3,6 @@
 # 👋 Olá, Eu sou Denis Muniz Silva!
 
 ### Desenvolvedor Full Stack Python | Analista de Dados
-
-*Apaixonado por tecnologia e sempre em busca de novos desafios*<br>
-
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denisms7.github.io/portifolio_dms/)
 
 </div>
