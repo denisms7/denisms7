@@ -5,7 +5,6 @@
 ### Desenvolvedor Full Stack Python | Analista de Dados
 
 *Apaixonado por tecnologia e sempre em busca de novos desafios*<br>
-Sou um desenvolvedor que ama transformar ideias em soluções reais através da programação. Trabalho com desenvolvimento full stack utilizando Python e também atuo na análise de dados, extraindo insights valiosos para tomada de decisões.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denisms7.github.io/portifolio_dms/)
 
